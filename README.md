@@ -1,5 +1,3 @@
-# Credit-Card-Fraud-Detection-Python-EDA-ML-
-
 # Credit Card Fraud Detection 🕵️‍♂️💳
 
 This project aims to detect fraudulent credit card transactions using basic Exploratory Data Analysis (EDA) and a Random Forest classifier. It is designed as a beginner-friendly project to practice working with imbalanced datasets and applying machine learning for classification.
