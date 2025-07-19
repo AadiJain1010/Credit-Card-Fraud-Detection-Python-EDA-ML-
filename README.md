@@ -50,5 +50,5 @@ This project aims to detect fraudulent credit card transactions using basic Expl
 
 ---
 
-## 📁 Project Structure
+
 
